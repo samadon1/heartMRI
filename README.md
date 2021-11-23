@@ -6,7 +6,7 @@ In medical imagery analysis it is often important to separate the pixels corresp
  <br />  <br />
  A working app of the project can be found [here](https://share.streamlit.io/samadon1/heartmri/main/app.py)
  <br />
- Note: Having trouble viewing the web app? Please try using browser other than chrome.
+ Note: Having trouble viewing the web app? Please try using another browser.
  
  ## Setup
  To run the project locally on your machine <br />
