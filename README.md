@@ -17,4 +17,4 @@ A validation/test file in TFRecord format is already provided for inference.
 To make inference with your own file, make sure the file is located in the project directory
 
 ## Conclusion
-The model for this project was built using GPU and Tensorflow's `tf.data` pipeline. Working with these can be great so moving forward, I'll be creating custom functions to handle imput data provided in other formats aside TFRecords like .png, jpeg etc. Watch this space.
+The model for this project was built using GPU and Tensorflow's `tf.data` pipeline. Working with these can be great so moving forward, I'll be creating functions to handle input data provided in other formats (like .png, .jpeg etc) which can be fed into the model. Watch this space.
