@@ -14,7 +14,7 @@ In medical imagery analysis it is often important to separate the pixels corresp
 
 ## Important
 A validation/test file in TFRecord format is already provided for inference.
-To make inference on your own file, make sure the file is located in the project directory
+To make inference with your own file, make sure the file is located in the project directory
 
 ## Conclusion
 The model for this project was built using GPU and Tensorflow's `tf.data` pipeline. Working with these can be great so moving forward, I'll be creating custom functions to handle imput data provided in other formats aside TFRecords like .png, jpeg etc. Watch this space.
